@@ -33,7 +33,9 @@
   <ItemGroup>
     <TypeScriptCompile Include="app.ts" />
     <TypeScriptCompile Include="application\controllers\controller.ts" />
-    <TypeScriptCompile Include="application\models\job.ts" />
+    <TypeScriptCompile Include="application\models\problem.ts" />
+    <TypeScriptCompile Include="application\models\solution.ts" />
+    <TypeScriptCompile Include="application\service\data.access.ts" />
     <TypeScriptCompile Include="application\start.ts" />
     <TypeScriptCompile Include="basic\basic.types.ts" />
     <TypeScriptCompile Include="basic\class.ts" />
